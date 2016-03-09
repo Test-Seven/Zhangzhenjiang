@@ -5,6 +5,7 @@ Zhangzhenjiang
 ![img](https://github.com/Test-Seven/Zhangzhenjiang/blob/master/%E7%AC%AC3%E6%AC%A1Homework_20160306/image/01/1.png)
 
 （2）下载dex2jar 工具，并解压，执行d2j-dex2jar.bat com.yiguo.appclasses.dex，得到com.yiguo.appclasses-dex2jar.jar 文件
+
 ![img](https://github.com/Test-Seven/Zhangzhenjiang/blob/master/%E7%AC%AC3%E6%AC%A1Homework_20160306/image/01/2.png)
  
 （3）下载JD-GUI，并打开com.yiguo.appclasses-dex2jar.jar 文件
