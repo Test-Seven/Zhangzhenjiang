@@ -6,6 +6,7 @@
 ![img](https://github.com/Test-Seven/Zhangzhenjiang/blob/master/%E7%AC%AC2%E6%AC%A1Homework_20160228/image/02/01.png)
 
 （2）手机设置代理ip（电脑pc，端口）
+
 ![img](https://github.com/Test-Seven/Zhangzhenjiang/blob/master/%E7%AC%AC2%E6%AC%A1Homework_20160228/image/02/02.png)
 
 （3）手机浏览器打开 www.so.com，然后搜索 monkey ，抓包如下
@@ -24,4 +25,4 @@
 
 ![img](https://github.com/Test-Seven/Zhangzhenjiang/blob/master/%E7%AC%AC2%E6%AC%A1Homework_20160228/image/03/02-1.png)
 ![img](https://github.com/Test-Seven/Zhangzhenjiang/blob/master/%E7%AC%AC2%E6%AC%A1Homework_20160228/image/03/02-2.png)
-![img](https://github.com/Test-Seven/Zhangzhenjiang/blob/master/%E7%AC%AC2%E6%AC%A1Homework_20160228/image/03/02-3.png)
+
